@@ -33,6 +33,6 @@ Check out my [website](https://issmeftah.com) :)
 
 
 ## Stats
-<img width='200' src="https://github-readme-stats.vercel.app/api?username=twiny" />
+<img width='300' src="https://github-readme-stats.vercel.app/api?username=twiny" />
 
-<img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=twiny" />
+<img width='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=twiny" />
