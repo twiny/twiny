@@ -4,8 +4,10 @@ I'm Golang Developer. I aim to build robust programs, elegant interfaces, and sc
 
 I'm an open-source enthusiast. Writing clean and well-documented code is the key to maintainability.
 
+- Find me on twitter <a href="https://twitter.com/gotwiny" target="_blank">**@gotwiny**</a>
+- Reach out to me **hello@issmeftah.com**
+- Check out my website <a href="https://issmeftah.com" target="_blank">**website**</a> :)
 
-Check out my <a href="https://issmeftah.com" target="_blank">website</a> :)
 
 ## Languages and Tools:
 
