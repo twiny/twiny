@@ -1,6 +1,6 @@
 ## Hi 👋 - Glad to see you here!
 
-I'm Golang Developer. I aim to build robust programs, elegant interfaces, and scalable APIs.
+I'm Golang Software Engineer. I aim to build robust programs, elegant interfaces, and scalable APIs.
 
 I'm an open-source enthusiast. Writing clean and well-documented code is the key to maintainability.
 
