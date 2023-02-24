@@ -1,11 +1,10 @@
 ## Hi 👋 - Glad to see you here!
 
-I'm Golang Software Engineer. I aim to build robust programs, elegant interfaces, and scalable APIs.
+I'm a Golang Software Engineer, passionate about developing robust programs, creating elegant and scalable APIs.
 
-I'm an open-source enthusiast. Writing clean and well-documented code is the key to maintainability.
+As an open-source enthusiast, I believe that writing clean and well-documented code is the foundation for maintainability.
 
-Reach out to me **hello@issmeftah.com**
-
+Feel free to reach out to me at **hello@issmeftah.com**. I look forward to hearing from you!
 
 ## Languages and Tools:
 
